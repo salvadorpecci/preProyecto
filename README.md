@@ -1,4 +1,5 @@
 # Aplicación de notas
+Salvador Pecci Ochoa
 ## Introducción
 
 La toma de notas es una actividad esencial para muchas personas, ya sea para recordar tareas, tomar apuntes en una reunión o simplemente para recordar información importante. En la era digital en la que vivimos, la mayoría de las personas utilizan herramientas digitales para tomar notas. En este proyecto, se desarrollará una aplicación web de toma de notas utilizando el MERN stack (MongoDB, Express, React y Node.js).
